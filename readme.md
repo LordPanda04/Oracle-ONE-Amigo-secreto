@@ -19,13 +19,14 @@ Una vez realizado el sorteo, la lista de amigos se reinicia para poder comenzar 
    git clone https://github.com/LordPanda04/Oracle-ONE-Amigo-secreto.git
 
 2. Asegúrate de que la estructura de archivos sea la siguiente:
-    /amigo-secreto
-    ├── index.html
-    ├── style.css
-    ├── app.js
-    ├── assets/
-    ├── amigo-secreto.png
-    └── play_circle_outline.png
+/amigo-secreto
+├── index.html
+├── style.css
+├── app.js
+├── assets/
+│   ├── amigo-secreto.png
+│   └── play_circle_outline.png
+
 
 
 3. No se necesitan dependencias externas.  
